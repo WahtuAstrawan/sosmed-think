@@ -22,7 +22,7 @@ function NavbarSosmed() {
             </Link>
           </NavbarItem>
           <NavbarItem className='mx-4'>
-            <Link color="foreground" href="#">
+            <Link color="foreground" href="#paket-section">
               Paket
             </Link>
           </NavbarItem>

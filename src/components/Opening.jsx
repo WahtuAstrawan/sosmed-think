@@ -12,7 +12,7 @@ function Opening() {
             Follower PASTI TUMBUH atau uang kembali 100%
         </p>
         <div className='text-center my-5'>
-            <Button color='success' as={Link} href='https://go.linkwa.id/s1Z7LFY' target='_blank'>
+            <Button color='success' as={Link} href='https://go.linkwa.id/s1Z7LFY' target='_blank' className='hover:scale-105'>
                 KLAIM SEKARANG
             </Button>
         </div>

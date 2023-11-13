@@ -3,8 +3,9 @@ import {Card, CardHeader, CardBody, CardFooter, Divider, Link, Image, Button} fr
 
 function Packet() {
   return (
-    <>
-        <div className='flex flex-col items-center md:flex-row md:justify-center mt-16 mb-10'>
+    <>  
+        <h1 className='text-center text-3xl font-bold mt-16 mb-8' id='paket-section'>Paket yang Tersedia</h1>
+        <div className='flex flex-col items-center md:flex-row md:justify-center'>
             <Card className="md:max-w-[28%] text-lg max-w-[375px] bg-amber-300 mx-4 my-4 hover:scale-105">
                 <CardHeader className="flex gap-3">
                     <div className="flex flex-col">

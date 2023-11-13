@@ -5,10 +5,12 @@ import Facility from './components/Facility'
 import Portfolio from './components/Portfolio'
 import Figure from './components/Figure'
 import Packet from './components/Packet'
+import MetaPixel from './components/MetaPixel'
 
 function App() {
   return (
     <>
+      <MetaPixel/>
       <NavbarSosmed/>
       <Opening/>
       <Facility/>
